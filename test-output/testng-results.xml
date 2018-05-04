@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3302" started-at="2018-04-16T22:45:44Z" finished-at="2018-04-16T22:45:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3302" started-at="2018-04-16T22:45:44Z" finished-at="2018-04-16T22:45:47Z">
+      <class name="validatingF1ReponseData.TestClassForValidatingTestData">
+        <test-method status="PASS" signature="test_NumberOfCircuitsFor2017Season_ShouldBe20()[pri:0, instance:validatingF1ReponseData.TestClassForValidatingTestData@e2cbe0]" name="test_NumberOfCircuitsFor2017Season_ShouldBe20" duration-ms="2617" started-at="2018-04-16T18:45:44Z" finished-at="2018-04-16T18:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_NumberOfCircuitsFor2017Season_ShouldBe20 -->
+        <test-method status="PASS" signature="validateByPassingAsParameter()[pri:0, instance:validatingF1ReponseData.TestClassForValidatingTestData@e2cbe0]" name="validateByPassingAsParameter" duration-ms="345" started-at="2018-04-16T18:45:47Z" finished-at="2018-04-16T18:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateByPassingAsParameter -->
+        <test-method status="PASS" signature="validateStatusCode()[pri:0, instance:validatingF1ReponseData.TestClassForValidatingTestData@e2cbe0]" name="validateStatusCode" duration-ms="302" started-at="2018-04-16T18:45:47Z" finished-at="2018-04-16T18:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+      </class> <!-- validatingF1ReponseData.TestClassForValidatingTestData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
